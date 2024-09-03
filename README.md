@@ -34,7 +34,7 @@ A AWS oferece um conjunto robusto de serviços para construir, implantar e geren
 - **Escalabilidade Horizontal:** Prefira escalar horizontalmente (adicionar mais containers) ao invés de verticalmente (aumentar o poder de um container individual).
 - **Segurança:** Sempre mantenha suas imagens atualizadas e use scanners de vulnerabilidade para garantir que seus containers estejam livres de falhas de segurança conhecidas.
 
-## Abaixo seguem relacao das
+## Abaixo seguem relacao das aulas e materias abordadas
 
 ### [Day 1 - Arquitetura de VPC's](/Arquitetura_de_Containers/day1/README.md)
 
